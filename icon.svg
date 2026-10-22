@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <title>ave</title>
+  <!-- Maskable-safe: the background fills the whole canvas and the wordmark sits
+       well inside the 80% safe zone, so a circular mask cannot clip it. -->
+  <rect width="512" height="512" fill="#080A12"/>
+  <text x="256" y="256" fill="#EAECF3"
+        font-family="Helvetica Neue, Helvetica, Arial, sans-serif"
+        font-size="180" font-weight="700" letter-spacing="-6"
+        text-anchor="middle" dominant-baseline="central">a<tspan fill="#6C86FF">v</tspan>e</text>
+</svg>
