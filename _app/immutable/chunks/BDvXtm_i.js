@@ -1,0 +1,1 @@
+import{m as c,n as r,o as d}from"./BDyqE8xu.js";const e=new Set;async function l(t){if(!(!t||e.has(t))){e.add(t);try{(await r(t)).forEach((s,a)=>{const n={weight:s.weight,style:s.style};document.fonts.add(new FontFace(t,`url("${d(t,a)}")`,n))})}catch{e.delete(t)}}}let o=!1;async function F(){if(!o){o=!0;try{for(const t of await c())l(t)}catch{o=!1}}}export{l as a,F as l};

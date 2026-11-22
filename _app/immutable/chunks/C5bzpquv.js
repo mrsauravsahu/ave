@@ -1,0 +1,1 @@
+import"./DsnmJJEf.js";import{s,r as p}from"./MC-JjsCu.js";import{I as n}from"./BK3XKU9c.js";const o={name:"smartphone",size:24,node:[["rect",{width:"14",height:"20",x:"5",y:"2",rx:"2",ry:"2"}],["path",{d:"M12 18h.01"}]]};o.node;function c(r,t){let e=p(t,["$$slots","$$events","$$legacy"]);n(r,s(()=>e,{get icon(){return o}}))}export{c as S};
